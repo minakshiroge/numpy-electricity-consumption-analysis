@@ -36,7 +36,7 @@ Analyze daily electricity consumption data and generate useful insights using Nu
 - Some days indicate possible electricity wastage
 - Overall usage pattern is consistent
 - 
-## Business Impact (Short)
+## Business Impact 
 - Helps reduce electricity costs by identifying high usage and wastage days
 - Supports better budgeting and monthly bill estimation
 - Improves energy efficiency and operational planning
