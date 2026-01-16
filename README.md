@@ -35,6 +35,13 @@ Analyze daily electricity consumption data and generate useful insights using Nu
 - High usage days increase the total electricity bill
 - Some days indicate possible electricity wastage
 - Overall usage pattern is consistent
+- 
+## Business Impact (Short)
+- Helps reduce electricity costs by identifying high usage and wastage days
+- Supports better budgeting and monthly bill estimation
+- Improves energy efficiency and operational planning
+- Enables data-driven decisions for cost optimization
+- Promotes sustainable and efficient electricity usage
 
 ## Conclusion
 This project demonstrates how NumPy can be used to analyze real-world electricity consumption data and generate actionable insights for cost optimization.
